@@ -1,7 +1,7 @@
 
 """
-Trollcheckbot 1.1b is a reddit bot written by (utter novice) /u/tingmakpuk.
-In theory, this bot will be summoned by a user responding to an exising comment using
+Trollcheckbot, Copyright 2014 Whenido, /u/tingmakpuk. Open source license available.
+Reddit bot to be summoned by a user responding to an exising comment using
 a trigger phrase.  The bot will report on the user who posted the parent comment:
 
 Version 1.0: Replies with target username and comment karma.
